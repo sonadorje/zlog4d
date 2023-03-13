@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.980,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.090,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.261,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.569,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.889,E:\MyCode\zlog-delphi\test_category.dproj=E:\MyCode\zlog-delphi\test_bitmap.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.786,F:\MYCODE\zlog-delphi\test_hello.dproj=D:\MyCode\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.725,E:\MyCode\zlog-delphi\test_enabled.dproj=E:\MyCode\zlog-delphi\test_category.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.587,E:\MyCode\zlog-delphi\test_init.dproj=E:\MyCode\zlog-delphi\test_default.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.529,=F:\MYCODE\zlog-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.022,E:\MyCode\zlog-delphi\test_default.dproj=E:\MyCode\zlog-delphi\test_enabled.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.096,F:\MYCODE\zlog-delphi\zlog4d.pas=F:\MYCODE\zlog-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.540,=F:\MYCODE\demo_fopen\libc_win.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.937,E:\MyCode\zlog-delphi\test_hello.dproj=E:\MyCode\zlog-delphi\test_init.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.980,E:\MyCode\zlog-delphi\glob.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.621,E:\MyCode\zlog-delphi\test_bitmap.dproj=E:\MyCode\zlog-delphi\test_buf.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.058,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.309,E:\MyCode\zlog-delphi\glob.pas=E:\MyCode\zlog-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.825,=E:\MyCode\zlog-delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

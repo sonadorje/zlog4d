@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.825,=E:\MyCode\zlog-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.980,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.090,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.786,F:\MYCODE\zlog-delphi\test_hello.dproj=D:\MyCode\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.529,=F:\MYCODE\zlog-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.309,E:\MyCode\zlog-delphi\glob.pas=E:\MyCode\zlog-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.569,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.540,=F:\MYCODE\demo_fopen\libc_win.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.937,E:\MyCode\zlog-delphi\test_hello.dproj=E:\MyCode\zlog-delphi\test_init.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.096,F:\MYCODE\zlog-delphi\zlog4d.pas=F:\MYCODE\zlog-delphi\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.261,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.058,=D:\MyCode\Unit1.pas</Transaction>
+    <Transaction>2023-02-24 15:25:02.106,E:\MyCode\zlog-delphi\test_press_zlog.dproj=E:\MyCode\zlog-delphi\test_init.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

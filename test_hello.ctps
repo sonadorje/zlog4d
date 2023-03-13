@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="test_hello.dpr"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="10"/>
+        <CursorPos Y="22"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="zlog4d.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="6109"/>
+        <CursorPos Y="6121"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="glob.pas"/>
+        <FRMtype Value="0"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <CursorPos X="6" Y="4"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\libfiber-delphi\libc_win.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="5853"/>
+        <CursorPos X="3" Y="5871"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pthreads4w-delphi\pthreads.ptw32.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="661"/>
+        <CursorPos X="40" Y="668"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\codetyphon\fpcsrc\rtl\x86_64\setjumph.inc"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="12"/>
+        <CursorPos X="38" Y="27"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Pthreads4w-delphi\pthreads.win.pas"/>
+        <FRMtype Value="0"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="275"/>
+        <CursorPos X="54" Y="288"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6262" TopLine="6253"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6268" TopLine="6253"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6271" Column="23" TopLine="6261"/>
+      </Position>
+      <Position>
+        <Filename Value="test_hello.dpr"/>
+        <Caret Line="22" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6401" TopLine="6391"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6271" TopLine="6261"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6050" TopLine="6039"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6051" TopLine="6039"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6052" TopLine="6042"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6053" TopLine="6042"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6054" TopLine="6042"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6058" TopLine="6042"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6060" Column="33" TopLine="6051"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6083" TopLine="6073"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6089" TopLine="6073"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6090" TopLine="6074"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6091" TopLine="6075"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6092" TopLine="6076"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6094" TopLine="6078"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6093" Column="62" TopLine="6089"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6100" TopLine="6089"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6101" TopLine="6089"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6102" TopLine="6089"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6104" TopLine="6089"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6105" TopLine="6089"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6109" TopLine="6099"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6110" TopLine="6099"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6114" TopLine="6099"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6115" TopLine="6099"/>
+      </Position>
+      <Position>
+        <Filename Value="zlog4d.pas"/>
+        <Caret Line="6119" TopLine="6109"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <SkipCheckLCLInterfaces Value="True"/>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test_hello.dpr"/>
+        <Line Value="27"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="test_hello.dpr"/>
+        <Line Value="22"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="zlog4d.pas"/>
+        <Line Value="6401"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="zlog4d.pas"/>
+        <Line Value="6271"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
